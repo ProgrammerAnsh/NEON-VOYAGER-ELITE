@@ -3,8 +3,8 @@
 const AUDIO_SOURCES = {
     bgm: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3", // Background Music
     coin: "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
-    dash: "./Assets/dash.wav",
-    hit: "./Assets/hit.wav",
+    dash: "./dash.wav",
+    hit: "./hit.wav",
     boss: "https://assets.mixkit.co/active_storage/sfx/951/951-preview.mp3",
     over: "https://assets.mixkit.co/active_storage/sfx/2020/2020-preview.mp3"
 };
